@@ -2,3 +2,5 @@ tmp/*
 *.txt
 tmp/todo.txt
 *.xml
+*.xlsx
+
